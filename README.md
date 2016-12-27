@@ -1,1 +1,1 @@
-# python-tic-tac-toe
+Tic Tac Toe created in Python
